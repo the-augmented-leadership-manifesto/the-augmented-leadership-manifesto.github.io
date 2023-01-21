@@ -1,3 +1,31 @@
 baseURL: http://basejumpa.github.io/augmented-leadership-manifesto
 languageCode: en-us
 title: The Augmented Leadership Manifesto
+theme: ananke
+author: 
+  facebook: "https://www.facebook.com/AugmentedLeadership/" 
+  twitter: "https://twitter.com/RoshoWorld" 
+  email: "info@rosho.world" 
+  name: "Rosho.World" 
+  location: "Avignon, Bangkok, Berlin, Yokohama" 
+
+menu:
+  main: 
+    - identifier: about 
+      name: About 
+      url: /about 
+      weight: 100 
+    - identifier: contact 
+      name: Contact 
+      url: /contact 
+      weight: 200 
+params: 
+  color: "#4f46e5"
+  copyright: "Copyright &copy; 2022 Rosho.World.
+    All Rights Reserved."
+  footer:
+  - title: About
+    content: >
+      Souvenir. Thinking in. Rethinking.
+      Think through. Rethink. Think clearly.
+      With well-positioned brains in the core team.
