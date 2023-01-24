@@ -1,7 +1,7 @@
-baseURL: http://basejumpa.github.io/augmented-leadership-manifesto
+baseURL: http://basejumpa.github.io/the-augmented-leadership-manifesto
 languageCode: en-us
 title: The Augmented Leadership Manifesto
-theme: ananke
+theme: eclectic
 author: 
   facebook: "https://www.facebook.com/AugmentedLeadership/" 
   twitter: "https://twitter.com/RoshoWorld" 
@@ -11,12 +11,12 @@ author:
 
 menu:
   main: 
-    - identifier: about 
-      name: About 
-      url: /about 
+    - identifier: imprint 
+      name: IMPRINT 
+      url: /imprint 
       weight: 100 
     - identifier: contact 
-      name: Contact 
+      name: CONTACT 
       url: /contact 
       weight: 200 
 params: 
