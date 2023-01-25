@@ -1,1 +1,1 @@
-Hallo.
+See [IMPRINT](https://rosho.world/en/imprint/)

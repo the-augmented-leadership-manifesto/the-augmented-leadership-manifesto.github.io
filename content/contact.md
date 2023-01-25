@@ -1,1 +1,1 @@
-contact.md
+See [CONTACT](https://rosho.world/en/contact/)
