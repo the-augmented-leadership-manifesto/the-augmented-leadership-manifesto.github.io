@@ -1,10 +1,15 @@
-name: github pages
+name: build and publish website
 
 on:
   push:
     branches:
       - main  # Set a branch that will trigger a deployment
   pull_request:
+  
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
   deploy:
@@ -23,10 +28,13 @@ jobs:
 
       - name: Build
         run: hugo --minify
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
+        
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          path: './public'
+          
+      - name: Publish at GitHub Pages
+        id: deployment
+        if: github.ref == 'refs/heads/main'
+        uses: actions/deploy-pages@v1
