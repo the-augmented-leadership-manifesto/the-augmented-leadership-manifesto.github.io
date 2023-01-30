@@ -10,7 +10,7 @@ author:
 menu:
   main:
     - identifier: 0
-      name: 0
+      name: INTRO
       url: /0
       weight: 1
     - identifier: 1
