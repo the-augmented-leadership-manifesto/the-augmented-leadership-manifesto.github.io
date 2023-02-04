@@ -1,15 +1,18 @@
 # The Augmented Leadership Manifesto
 
-**WIP - Work-In-Progress** : The page is not fully functioning nor complete yet.
+##We developed Augmented Leadership as a framework for governance and decision-making.##
 
-Mirror of content at [rosho.world](https://rosho.world/en/manifesto/the-augmented-leadership-manifesto) .
+**The Manifesto forms the backbone.**
+We, Robert (Rosho) Hopp and Otmar (OJ) Jenner, wish this project to develop further as open source.
+We are convinced of the power of swarm intelligence and therefore want this Manifesto to get its wings.
+Hence our request: Get involved.
+Fork the repository, make improvements, and send us your pull request.
+All texts are invitations for optimization.
+Their order should remain the same.
+The graphics could not be changed.
+This site is a mirror of the content of [rosho.world](https://rosho.world/en/manifesto/the-augmented-leadership-manifesto), which we will adjust if necessary.
+Thank you for your interest and participation!
 
-The Augmented Leadership Manifesto as community edition. 
-
-Technology used: Static website with [Hugo](https://gohugo.io).
-
-Hosted on GitHub.
-
-Published on GitHub pages at https://basejumpa.github.io/the-augmented-leadership-manifesto/ as demo. It will be transfered to GitHub pages location. It will be also available under url https://to-be-done.
+The Augmented Leadership Manifesto is a community edition. 
 
 See copyright and license in LICENSE.md.
