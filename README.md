@@ -1,6 +1,6 @@
 # The Augmented Leadership Manifesto
 
-## We developed Augmented Leadership as a framework for governance and decision-making.
+### Augmented Leadership has been developed as a framework for governance and decision-making.
 
 **The Manifesto forms the backbone.**
 
