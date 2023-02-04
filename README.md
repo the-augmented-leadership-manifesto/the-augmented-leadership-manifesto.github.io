@@ -1,6 +1,6 @@
 # The Augmented Leadership Manifesto
 
-##We developed Augmented Leadership as a framework for governance and decision-making.##
+## We developed Augmented Leadership as a framework for governance and decision-making.
 
 **The Manifesto forms the backbone.**
 We, Robert (Rosho) Hopp and Otmar (OJ) Jenner, wish this project to develop further as open source.
