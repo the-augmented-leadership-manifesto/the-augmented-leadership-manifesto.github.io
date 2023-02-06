@@ -1,4 +1,4 @@
-## Welcome to the Augmented Leadership Manifesto!
+## Welcome!
 
 Our Augmented Leadership Manifesto and its 12 principles culminate with years of experience in businesses and organizations.
 They represent best practices based on current knowledge.
