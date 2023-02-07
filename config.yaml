@@ -65,6 +65,10 @@ menu:
       name: "12. Principle"
       url: /12
       weight: 13
+    - identifier: contribute
+      name: "CONTRIBUTE"
+      url: /contribute
+      weight: 14
 
   footer:
     - identifier: imprint 
