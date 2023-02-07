@@ -11,29 +11,78 @@ author:
   email: "info@rosho.world" 
   location: "Avignon, Bangkok, Yokohama" 
 
-sectionPagesMenu: main
-
 menu:
   main:
     - identifier: 0
-      name: STATEMENT
-      url: /statement
+      name: "STATEMENT"
+      url: /0
       weight: 1
-  footer:
-    - identifier: contact 
-      name: CONTACT 
-      url: /contact
+    - identifier: 1
+      name: "1. Principle"
+      url: /1
       weight: 2
+    - identifier: 2
+      name: "2. Principle"
+      url: /2
+      weight: 3
+    - identifier: 3
+      name: "3. Principle"
+      url: /3
+      weight: 4
+    - identifier: 4
+      name: "4. Principle"
+      url: /4
+      weight: 5
+    - identifier: 5
+      name: "5. Principle"
+      url: /5
+      weight: 6
+    - identifier: 6
+      name: "6. Principle"
+      url: /6
+      weight: 7
+    - identifier: 7
+      name: "7. Principle"
+      url: /7
+      weight: 8
+    - identifier: 8
+      name: "8. Principle"
+      url: /8
+      weight: 9
+    - identifier: 9
+      name: "9. Principle"
+      url: /9
+      weight: 10
+    - identifier: 10
+      name: "10. Principle"
+      url: /10
+      weight: 11
+    - identifier: 11
+      name: "11. Principle"
+      url: /11
+      weight: 12
+    - identifier: 12
+      name: "12. Principle"
+      url: /12
+      weight: 13
+
+  footer:
     - identifier: imprint 
       name: IMPRINT 
       url: /imprint
-      weight: 3
+      weight: 14
+    - identifier: contact 
+      name: CONTACT 
+      url: /contact
+      weight: 15
 
 params:
   toc: true
   ananke_socials:
+  - name: github
+    url: https://github.com/the-augmented-leadership-manifesto/the-augmented-leadership-manifesto.github.io
   - name: linkedin
-    url: https://www.linkedin.com/company/68224810
+    url: https://www.linkedin.com/in/roberthopp/
   - name: facebook
     url: https://www.facebook.com/AugmentedLeadership/
   - name: twitter

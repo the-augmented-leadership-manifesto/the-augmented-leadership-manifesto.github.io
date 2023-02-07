@@ -11,3 +11,4 @@ Let's start the conversation! Join us in shaping the future of leadership.
 Robert ([Rosho](https://github.com/roshoworld)) Hopp, Otmar ([OJ](https://github.com/OtmarJe)) Jenner
 
 Supported by Alexander ([basejumpa](https://github.com/basejumpa)) Mann-Wahrenberg
+
