@@ -4,7 +4,7 @@
 
 **The Manifesto forms the backbone.**
 
-We, Robert (Rosho) Hopp and Otmar (OJ) Jenner, wish this project to develop further as open source.
+We, Robert ([Rosho](https://github.com/roshoworld)) Hopp and Otmar ([OJ](https://github.com/OtmarJe)) Jenner, supported by Alexander ([basejumpa](https://github.com/basejumpa)) Mann-Wahrenberg, wish this project to develop further as open source.
 We are convinced of the power of swarm intelligence and therefore want this Manifesto to get its wings.
 Hence our request: Get involved.
 Fork the repository, make improvements, and send us your pull request.
