@@ -15,7 +15,7 @@ menu:
   main:
     - identifier: 0
       name: "STATEMENT"
-      url: /0
+      url: /statement
       weight: 1
     - identifier: 1
       name: "1. Principle"

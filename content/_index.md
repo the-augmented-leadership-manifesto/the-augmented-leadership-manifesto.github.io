@@ -1,3 +1,7 @@
+---
+cascade:
+  featured_image: '../images/LinkedInBackground3-1.png'
+---
 ## Welcome!
 
 Our Augmented Leadership Manifesto and its 12 principles culminate with years of experience in businesses and organizations.
