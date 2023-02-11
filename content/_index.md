@@ -14,5 +14,5 @@ Let's start the conversation! Join us in shaping the future of leadership.
 
 Robert ([Rosho](https://www.linkedin.com/in/roberthopp/)) Hopp, Otmar ([OJ](https://de.linkedin.com/in/otmarjenner)) Jenner
 
-Supported by Alexander ([basejumpa](https://www.linkedin.com/in/alexander-mann-wahrenberg-939843b7/))) Mann-Wahrenberg
+Supported by Alexander ([basejumpa](https://www.linkedin.com/in/alexander-mann-wahrenberg-939843b7/)) Mann-Wahrenberg
 
