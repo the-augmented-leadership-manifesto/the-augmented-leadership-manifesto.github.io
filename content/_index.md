@@ -12,7 +12,7 @@ To that end, we invite you to contribute by forking our GitHub repository, makin
 
 Let's start the conversation! Join us in shaping the future of leadership.
 
-Robert ([Rosho](https://github.com/roshoworld)) Hopp, Otmar ([OJ](https://github.com/OtmarJe)) Jenner
+Robert ([Rosho](https://www.linkedin.com/in/roberthopp/)) Hopp, Otmar ([OJ](https://de.linkedin.com/in/otmarjenner)) Jenner
 
-Supported by Alexander ([basejumpa](https://github.com/basejumpa)) Mann-Wahrenberg
+Supported by Alexander ([basejumpa](https://www.linkedin.com/in/alexander-mann-wahrenberg-939843b7/))) Mann-Wahrenberg
 
