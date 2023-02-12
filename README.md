@@ -14,6 +14,6 @@ The graphics could not be changed.
 This site is a mirror of the content of [rosho.world](https://rosho.world/en/manifesto/the-augmented-leadership-manifesto), which we will adjust if necessary.
 Thank you for your interest and participation!
 
-The Augmented Leadership Manifesto is a community edition. 
+The Augmented Leadership Manifesto is a collaborative effort.
 
-See copyright and license in LICENSE.md.
+See copyright and license in [content/license.md](content/license.md)

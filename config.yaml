@@ -71,6 +71,10 @@ menu:
       weight: 14
 
   footer:
+    - identifier: license 
+      name: CC BY-ND 4.0 
+      url: license
+      weight: 13
     - identifier: imprint 
       name: IMPRINT 
       url: /imprint
