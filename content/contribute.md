@@ -1,15 +1,10 @@
 # How to contribute
 
-The contents of the Augmented Leadership Manifesto, i.e., the statement and the 12 principles, are not set in stone.
-
-Instead, they are an invitation for optimization.
-However, this optimization will be curated.
-
-We, the authors of the Manifesto, will carefully read the comments on your pull request.
-
-After review, the content you have changed will be lifted to the respective page or pages.
-
-Or not if we believe that they do not represent an improvement.
+The contents of the Augmented Leadership Manifesto, i.e., the statement and the 12 principles, are not set in stone.\
+Instead, they are an invitation for optimization. However, this optimization will be curated.\
+We, the authors of the Manifesto, will carefully read the comments on your pull request.\
+After review, your changed content will be transferred to the respective pages.\
+Or not if we believe that they do not represent an improvement.\
 
 But all this will be open for discussion.
 
