@@ -4,14 +4,14 @@ The contents of the Augmented Leadership Manifesto, i.e., the statement and the 
 Instead, they are an invitation for optimization. However, this optimization will be curated.\
 We, the authors of the Manifesto, will carefully read the comments on your pull request.\
 After review, your changed content will be transferred to the respective pages.\
-Or not if we believe that they do not represent an improvement.\
+Or not if we believe that they do not represent an improvement.
 
 But all this will be open for discussion.
 
 * For feedback, we use GitHub issues.
 * For proposals, we use GitHub pull requests.
 
-([Watch the explanatory video](https://youtu.be/QGzYjghjfmo))
+Watch the [explanatory video](https://youtu.be/QGzYjghjfmo).
 
 ## Feedback via Issue
 
