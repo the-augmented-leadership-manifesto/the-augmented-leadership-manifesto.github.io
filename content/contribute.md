@@ -11,6 +11,8 @@ But all this will be open for discussion.
 * For feedback, we use GitHub issues.
 * For proposals, we use GitHub pull requests.
 
+([Watch the explanatory video](https://youtu.be/QGzYjghjfmo))
+
 ## Feedback via Issue
 
 In the top right, hit the GitHub icon to browse to the site's repository.
